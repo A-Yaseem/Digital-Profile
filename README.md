@@ -1,2 +1,2 @@
-# Digital-Profile
-My personal digital profile website deployed on vercel
+# Digital Profile
+This is my personal digital profile website deployed using Vercel.
